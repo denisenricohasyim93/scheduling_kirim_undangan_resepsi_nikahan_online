@@ -2,5 +2,5 @@
 
 # how to :
 
-npm i && 
+npm i 
 pm2 start index.js --name "reminder_resepsi_online" 
