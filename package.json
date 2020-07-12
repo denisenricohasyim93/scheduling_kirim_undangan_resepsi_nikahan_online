@@ -1,0 +1,17 @@
+{
+  "name": "scheduling_kirim_undangan_resepsi_nikahan_online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.4.10",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
